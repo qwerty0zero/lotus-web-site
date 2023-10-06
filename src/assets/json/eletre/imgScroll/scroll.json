@@ -1,0 +1,46 @@
+[
+    {
+        "animation": "scrollTop",
+        "position": ["center", "center"],
+        "svg": "",
+        "text": "All‑electric Hyper‑SUV",
+        "subText": "From £89,500"
+    },
+    {
+        "animation": "fade",
+        "position": ["top", "right"],
+        "title": "ADVANCET",
+        "text": "THE MOST",
+        "subText": "LOTUS EVER"
+    },
+    {
+        "animation": "fade",
+        "position": ["down", "left"],
+        "title": "STYLE",
+        "text": "SPORTCAR"
+    },
+    {
+        "animation": "fade",
+        "position": ["top", "left"],
+        "title": "COMFORT",
+        "text": "SUV"
+    },
+    {
+        "animation": "fade",
+        "position": ["top", "right"],
+        "title": "LIVES",
+        "text": "A LOTUS THAT"
+    },
+    {
+        "animation": "fade",
+        "position": ["center", "left"],
+        "title": "BREATHES",
+        "text": "AND"
+    },
+    {
+        "animation": "fade",
+        "position": ["center", "center"],
+        "title": "PERFORMANCE",
+        "text": "EXHILARATING"
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "index": 1,
+        "type": "videoAnimation",
+        "active": true
+    },
+    {
+        "index": 2,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 3,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 4,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 5,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 6,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 7,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 1,
+        "type": "space",
+        "style": "white"
+    },
+    {
+        "index": 1,
+        "type": "imgTextSection"
+    },
+    {
+        "index": 1,
+        "type": "contentSection",
+        "components": [
+            {
+                "index": 1,
+                "type": "imgTextBlock"
+            },
+            {
+                "index": 1,
+                "type": "img3Tetx"
+            },
+            {
+                "index": 1,
+                "type": "carSlider"
+            }
+        ]
+    },
+
+
+    {
+        "index": 2,
+        "type": "carSlider"
+    },
+    {
+        "index": 8,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 3,
+        "type": "carSlider"
+    },
+    {
+        "index": 9,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 2,
+        "type": "contentSection",
+        "components": [
+            {
+                "index": 2,
+                "type": "imgTextBlock"
+            },
+            {
+                "index": 2,
+                "type": "img3Tetx"
+            },
+            {
+                "index": 1,
+                "type": "imgParalax",
+                "style": "wide"
+        
+            }
+        ]
+    },
+
+
+
+    {
+        "index": 4,
+        "type": "carSlider"
+    },
+    {
+        "index": 10,
+        "type": "videoAnimation",
+        "active": false
+
+    },
+    {
+        "index": 3,
+        "type": "contentSection",
+        "style": "reverse",
+        "components": [
+            {
+                "index": 3,
+                "type": "imgTextBlock"
+            },
+            {
+                "index": 4,
+                "type": "imgTextBlockReverse"
+            }
+        ]
+    },
+
+
+    {
+        "index": 5,
+        "type": "carSlider"
+    },
+    {
+        "index": 2,
+        "type": "imgParalax",
+        "style": "fullWidth"
+    }
+]

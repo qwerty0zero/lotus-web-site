@@ -1,0 +1,24 @@
+{
+    "index": 2,
+    "mode": "light",
+    "img": [
+        {
+            "index":1,
+            "type": ".mp4"
+        },
+        {
+            "index":2,
+            "type": ".mp4"
+        },
+        {
+            "index":3,
+            "type": ".mp4"
+        }
+    ],
+    "text": "ULTRA FAST",
+    "title": "CHARGING",
+    "imgTitle": ["800V ARCHITECTURE", "HIGH CAPACITY","CHARGE INDICATOR"],
+    "imgText": ["Industry-leading EV architecture can top up 400km (250 miles) of range in just 20 minutes - with a maximum range of up to 600 km (373 miles)*",
+    "Enjoy enhanced charging at home or on the go with 22kW AC and 350kW DC capability.",
+    "The rear light blade glows green with charging, indicating realtime battery levels."]
+}

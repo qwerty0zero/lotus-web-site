@@ -1,0 +1,20 @@
+{   
+    "inedx": 1,
+    "title": "POWER",
+    "text": "WITHOUT COMPROMISE",
+    "subText": "Generating up to 905 hp* (675 kW*), twin electric motors provide high torque power through all four wheels, giving unparalleled acceleration and control in all conditions.",
+    "ul": [
+        {
+            "data": 373,
+            "title": "MILES \n RANGE*"
+        },
+        {
+            "data": 165,
+            "title": "MPH \n TOP SPEED*"
+        },
+        {
+            "data": 2.95,
+            "title": "SEC \n 0-62 MPH*"
+        }
+    ]
+}

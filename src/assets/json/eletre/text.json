@@ -1,0 +1,34 @@
+[
+    {
+        "type": "imgText",
+        "title": "",
+        "subText": "",
+        "text": ""
+    },
+    {
+        "type": "img3Tetx",
+        "text": "",
+        "text": ""
+    },
+    {
+        "type": "imgText",
+        "title": "",
+        "subText": "",
+        "text": ""
+    },
+    {
+        "type": "img3Tetx",
+        "text": "",
+        "text": ""
+    },
+    {
+        "type": "wideImg",
+        "url": ""
+    },
+    {
+        "type": "imgText"
+    },
+    {
+        "type": "imgTextReverse"
+    }
+]

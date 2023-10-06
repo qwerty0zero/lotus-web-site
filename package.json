@@ -7,9 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@egjs/vue3-flicking": "^4.11.0",
     "core-js": "^3.8.3",
+    "gsap": "^3.12.2",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue-zoom-scroll": "^1.0.29",
+    "vue3-carousel": "^0.3.1",
     "vuex": "^4.0.0"
   },
   "devDependencies": {

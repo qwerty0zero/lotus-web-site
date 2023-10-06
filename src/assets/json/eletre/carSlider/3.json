@@ -1,0 +1,24 @@
+{
+    "index": 3,
+    "mode": "light",
+    "img": [
+        {
+            "index":1,
+            "type": ".mp4"
+        },
+        {
+            "index":2,
+            "type": ".jpg"
+        },
+        {
+            "index":3,
+            "type": ".mp4"
+        }
+    ],
+    "title": "AUTONOMOUS DRIVING",
+    "text": "EQUIPPED FOR FUL",
+    "imgTitle": ["LIDAR", "ULTRA-HD CAMERAS","MILLIMETRE-WAVE RADAR"],
+    "imgText": ["The Eletre's LiDAR system scans 200 metres around the car in every direction, generating a sophisticated 3D map of the surroundings to detect obstacles even in low light or inclement weather.",
+    "The forward-facing telephoto camera can see up to 500 metres in front of the Eletre. The additional wide-angle lens, 4 side cameras, and rear sensor provide full 360° coverage.",
+    "Cutting-edge millimetre-wave radar calculates the position, speed, and direction of potential obstacles, also accounting for low-lying obstructions."]
+}

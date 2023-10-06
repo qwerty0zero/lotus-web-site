@@ -1,0 +1,24 @@
+{
+    "index": 5,
+    "mode": "light",
+    "img": [
+        {
+            "index":1,
+            "type": ".jpg"
+        },
+        {
+            "index":2,
+            "type": ".mp4"
+        },
+        {
+            "index":3,
+            "type": ".jpg"
+        }
+    ],
+    "title": "LUXURIOUS",
+    "text": "RESPONSIBLY",
+    "imgTitle": ["RE-FIBRE TEXTILE", "NAPPA LEATHER","ENDLESSLY ADJUSTABLE"],
+    "imgText": ["The Re-Fibre interior option is crafted from repurposed fashion industry textiles, offering a new vision of sustainable luxury.",
+    "Soft, supportive and stylish. The Nappa Leather interior is as premium as it is practical.",
+    "20-way adjustable seats remembering driver and passenger preferences. Smart heating and massage modes keep occupants refreshed and energised."]
+}

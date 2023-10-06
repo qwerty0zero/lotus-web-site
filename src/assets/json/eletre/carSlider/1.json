@@ -1,0 +1,27 @@
+{
+    "index": 1,
+    "mode": "dark",
+    "img": [
+        {
+            "index":1,
+            "type": ".jpg"
+        },
+        {
+            "index":2,
+            "type": ".jpg"
+        },
+        {
+            "index":3,
+            "type": ".mp4"
+        },
+        {
+            "index":4,
+            "type": ".mp4"
+        }
+    ],
+    "imgTitle": ["SUV OF THE YEAR 2023", "","",""],
+    "imgText": ["The Eletre claimed victory in GQ magazine’s Car Of The Year awards, winning the prestigious 'SUV of the Year' title 2023.",
+    "With its porous design, inspired by Lotus DNA, the Eletre doesn’t fight air. It breathes air.",
+    "The Evija-derived aerodynamics guide air over and through its body for extra downforce and speed.",
+    "The active aero works to create optimum aerodynamic efficiency."]
+}

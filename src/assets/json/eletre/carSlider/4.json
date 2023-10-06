@@ -1,0 +1,29 @@
+{
+    "index": 4,
+    "mode": "light",
+    "img": [
+        {
+            "index":1,
+            "type": ".jpg"
+        },
+        {
+            "index":2,
+            "type": ".jpg"
+        },
+        {
+            "index":3,
+            "type": ".jpg"
+        },
+        {
+            "index":4,
+            "type": ".jpg"
+        }
+    ],
+    "title": "CONTROL",
+    "text": "TAILORED FOR COMFORT AND",
+    "imgTitle": ["CONFIGURABLE AMBIENT LIGHTING", "INTELLIGENT GLASS ROOF","KEF HIGH FIDELITY SOUND", "TACTILE CONTROL"],
+    "imgText": ["Inside the cabin, intelligent lighting reacts to the driving mode, variations in climate, app connectivity, and battery levels.",
+    "The panoramic sunroof enhances the feeling of spaciousness, with configurable dimming for additional shade and privacy.",
+    "The 23-speaker, 2160W soundsystem is engineered by KEF for a truly immersive in-car audio experience.",
+    "Jewellery-grade stainless steel and plasticised metals ensure that every control element is luxuriously durable. The carbon fibre panels are crafted with a unique sateen weave construction, maintaining a sporty yet refined visual profile."]
+}

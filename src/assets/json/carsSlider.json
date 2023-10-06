@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Evija",
+        "text": "The all-electric Evija is the most powerful car to ever enter series production. Sculpted porosity commands airflow to deliver out-of-this-world driving dynamics and road handling.",
+        "index": 0
+    },
+    {
+        "title": "Eletre",
+        "text": "The all-electric Hyper-SUV with racecar DNA. The Eletre combines classic Lotus performance and driving dynamics with luxurious comfort and smart everyday practicality.",
+        "index": 2
+    },
+    {
+        "title": "Emira",
+        "text": "The Lotus story continues with a new icon: Emira. A car that doesn’t just turn heads but turns conventional thinking on its head, with its exotic supercar looks, everyday usability and enhanced comfort combined with class leading Lotus driving dynamics.",
+        "index": 3
+    }
+]
